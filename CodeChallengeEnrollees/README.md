@@ -19,12 +19,6 @@
 # Screenshots
   ![Alt text](https://github.com/sgopalan76/CodeChallengeEnrollees/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2010.38.29%20PM.png)
   
-  ![Alt text](https://github.com/sgopalan76/CodeChallengeEnrollees/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.53.54%20AM.png)
-  
-  ![Alt text](https://github.com/sgopalan76/CodeChallengeEnrollees/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.54.58%20AM.png)
-  
-  ![Alt text](https://github.com/sgopalan76/CodeChallengeEnrollees/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.55.16%20AM.png)
-  
   ![Alt text](https://github.com/sgopalan76/CodeChallengeEnrollees/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.04.58%20AM.png)
   
   ![Alt text](https://github.com/sgopalan76/CodeChallengeEnrollees/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.06.15%20AM.png)
