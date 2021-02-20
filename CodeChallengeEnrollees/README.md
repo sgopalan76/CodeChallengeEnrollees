@@ -17,41 +17,39 @@
     The problem was the id was present without the "-" that caused the server to error.
 
 # Screenshots
-  ![Alt text](https://github.com/sgopalan76/CodeChallengeEnrollees/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2010.38.29%20PM.png?raw=true "Optional Title")
+  ![Alt text](https://github.com/sgopalan76/CodeChallengeEnrollees/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2010.38.29%20PM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/Screen%20Shot%202021-02-18%20at%2010.38.29%20PM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.53.54%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.53.54%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.54.58%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.54.58%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.55.16%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.55.16%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.04.58%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.04.58%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.06.15%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.06.15%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.12.54%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.12.54%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.13.53%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.13.53%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.14.51%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.14.51%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.16.00%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.16.00%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.16.19%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.16.19%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.17.14%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.17.14%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.17.40%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.17.40%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.18.05%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.18.05%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.20.00%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.20.00%20AM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.20.38%20AM.png)
   
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%202.20.38%20AM.png
-  
-  https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-19%20at%208.34.27%20PM.png
+  ![Alt text](https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-19%20at%208.34.27%20PM.png)
 
 # Unit testing - 
   Screenshots attached in separate pdf 
