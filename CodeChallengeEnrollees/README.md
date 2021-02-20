@@ -17,6 +17,8 @@
     The problem was the id was present without the "-" that caused the server to error.
 
 # Screenshots
+  ![Alt text](/CodeChallengeEnrollees/CodeChallengeEnrollees/Screen%20Shot%202021-02-18%20at%2010.38.29%20PM.png?raw=true "Optional Title")
+  
   https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/Screen%20Shot%202021-02-18%20at%2010.38.29%20PM.png
   
   https://github.com/sgopalan76/spring-reddit-clone/blob/CodeChallengeEnrollees/CodeChallengeEnrollees/src/screenshots/Screen%20Shot%202021-02-18%20at%2012.53.54%20AM.png
