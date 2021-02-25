@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Enrollee } from '../enrollee';
 import { ActivatedRoute, Router } from '@angular/router';
 import { EnrolleeService } from '../enrollee.service';
@@ -17,15 +17,14 @@ export class UpdateEnrolleesComponent implements OnInit {
   dob: string;
   title = 'Update Enrollee';
 
-  constructor(private route: ActivatedRoute,private router: Router,
-    private enrolleeService: EnrolleeService) { }
+  constructor(private route: ActivatedRoute, private router: Router, private enrolleeService: EnrolleeService) { }
 
   ngOnInit() {
     this.enrollee = new Enrollee();
     this.id = this.route.snapshot.params['id'];
     this.enrolleeService.getEnrollee(this.id)
       .subscribe(data => {
-        console.log(data)
+        console.log(data);
         this.enrollee = data;
       }, error => console.log(error));
   }
@@ -37,7 +36,6 @@ export class UpdateEnrolleesComponent implements OnInit {
         console.log(data);
         this.enrollee = new Enrollee();
         this.gotoList();
-        //this.toastr.success('Enrollee updated successful');
       }, error => console.log(error));
   }
 

@@ -13,11 +13,10 @@ export class EnrolleesListComponent implements OnInit {
   enrollees: Observable<Enrollee[]>;
   searchValue: string;
   totalRecords: string;
-  page: Number=1;
+  page = 1;
   public errorMsg: string;
 
-  constructor(private enrolleeService: EnrolleeService,
-    private router: Router) { }
+  constructor(private enrolleeService: EnrolleeService, private router: Router) { }
 
   ngOnInit() {
     this.reloadData();
@@ -29,19 +28,18 @@ export class EnrolleesListComponent implements OnInit {
                                           .subscribe( data => this.enrollees = data,
                                                       error => this.errorMsg = error
                                             );
-                                          
   }
 
   testData() {
     console.log('here');
   }
 
-  enrolleeDetails(id: string){
+  enrolleeDetails(id: string) {
     this.router.navigate(['details', id]);
   }
 
-  updateEnrollee(id: string){
-    console.log('inside enrollee list update '+id);
+  updateEnrollee(id: string) {
+    console.log('inside enrollee list update ' + id);
     this.router.navigate(['update', id]);
   }
 

@@ -23,7 +23,7 @@
         <tr *ngFor="let enrollee of enrollees | searchFilter: searchValue | paginate: 
         {
          id : 'listing_pagination',
-         itemsPerPage: 5,
+         itemsPerPage: 10,
          currentPage: page,
          totalItems: totalRecords
         }"> 

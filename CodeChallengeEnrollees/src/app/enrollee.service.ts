@@ -1,9 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
-import { Observable,throwError } from 'rxjs';
-//for catch:
+import { Observable, throwError } from 'rxjs';
 import { catchError } from 'rxjs/operators';
-import { Enrollee } from './enrollee';
 
 @Injectable({
   providedIn: 'root'
@@ -20,7 +18,7 @@ export class EnrolleeService {
                     ;
   }
 
-  updateEnrollee(id: string, value: any): Observable<Object> {
+  updateEnrollee(id: string, value: any): Observable<any> {
     return this.http.put(`${this.baseUrl}/${id}`, value)
                     .pipe(catchError(this.errorHandler))
                     ;

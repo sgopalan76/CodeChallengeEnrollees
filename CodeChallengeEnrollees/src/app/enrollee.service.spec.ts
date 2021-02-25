@@ -1,7 +1,7 @@
 import { TestBed, inject, async } from '@angular/core/testing';
 
 import { EnrolleeService } from './enrollee.service';
-import { HttpClientTestingModule,HttpTestingController } from '@angular/common/http/testing';
+import { HttpClientTestingModule, HttpTestingController } from '@angular/common/http/testing';
 
 describe('EnrolleeService', () => {
   beforeEach(() => {

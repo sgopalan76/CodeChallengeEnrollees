@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { EnrolleesListComponent } from './enrollees-list/enrollees-list.component';
 import { EnrolleesDetailsComponent } from './enrollees-details/enrollees-details.component';
 import { UpdateEnrolleesComponent } from './update-enrollees/update-enrollees.component';
-import { FormsModule,ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { SearchFilterPipe } from './search-filter.pipe';
 import { NgxPaginationModule } from 'ngx-pagination';
 import { RouterModule, Routes} from '@angular/router';
